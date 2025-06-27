@@ -577,7 +577,7 @@ body {
 
 /* For toggleable perks that are enabled */
 .perk-item.toggleable-enabled::after {
-  content: "ON";
+  content: "开";
   position: absolute;
   top: 2px;
   right: 2px;
@@ -590,7 +590,7 @@ body {
 
 /* Badge for toggleable perks that are disabled */
 .perk-item.disabled::after {
-  content: "OFF";
+  content: "关";
   position: absolute;
   top: 2px;
   right: 2px;
