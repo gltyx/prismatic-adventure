@@ -387,7 +387,7 @@ var cnItems = {
     "And Makes you look cool.": "让你看起来很酷。",
     "Cool Sunglasses:": "酷的太阳镜:",
     "Reduces Endurance and Combat energy drain by 10%.": "减少10%的耐力和战斗能量消耗。",
-    "Reduces Hacking energy drain by 100%.": "减少100%的攻击能量消耗。",
+    "Reduces Hacking energy drain by 100%.": "减少100%的入侵能量消耗。",
     "Reduces Tinkering and Hacking energy drain by 5%.": "减少铸补和入侵 5% 的能量消耗。",
     "Steroids:": "类固醇:",
     ", Intellect": "智力",
